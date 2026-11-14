@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-404",
+ "name": "Sleep Pod",
+ "subtitle": "LUNA VR habitat module",
+ "series": "LUNA VR",
+ "pieces": 10007,
+ "bags": 2,
+ "steps": 67,
+ "width_cm": 76.8,
+ "depth_cm": 102.4,
+ "height_cm": 63.4,
+ "scale": "1:4",
+ "colors": 17,
+ "unique_parts": 218,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "LUNA X SleepPod"
+ },
+ "source_file": "LUNA_X_SleepPod.blend",
+ "pages": 24
+}

@@ -1,0 +1,24 @@
+{
+ "set_no": "LS-202",
+ "name": "Ring Station",
+ "subtitle": "Concept habitat 2 \u00b7 ring station with AI command hub",
+ "series": "Concept Habitats",
+ "pieces": 5960,
+ "bags": 5,
+ "steps": 52,
+ "width_cm": 102.4,
+ "depth_cm": 76.8,
+ "height_cm": 23.0,
+ "scale": "1:112",
+ "colors": 28,
+ "unique_parts": 267,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Interior Ring",
+  "3": "Courtyard Hub",
+  "4": "Outer Facilities",
+  "5": "Exterior Ring"
+ },
+ "source_file": "2.blend",
+ "pages": 21
+}

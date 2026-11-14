@@ -1,0 +1,28 @@
+{
+ "set_no": "LS-205",
+ "name": "Modular Surface Base",
+ "subtitle": "Concept habitat 5 \u00b7 modules, inflatable quarters and cargo lander",
+ "series": "Concept Habitats",
+ "pieces": 6177,
+ "bags": 9,
+ "steps": 68,
+ "width_cm": 102.4,
+ "depth_cm": 76.8,
+ "height_cm": 16.3,
+ "scale": "1:67",
+ "colors": 23,
+ "unique_parts": 215,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Power LifeSupport Module",
+  "3": "Command Module",
+  "4": "Site Equipment",
+  "5": "Entry Module",
+  "6": "AI Wellness Pod",
+  "7": "Inflatable Quarters",
+  "8": "Greenhouse",
+  "9": "Shielded Core Dome"
+ },
+ "source_file": "5.blend",
+ "pages": 24
+}

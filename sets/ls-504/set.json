@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-504",
+ "name": "LUNA-X Mobility Boot",
+ "subtitle": "Smart boot \u00b7 life-size display model",
+ "series": "LUNA-X",
+ "pieces": 3528,
+ "bags": 2,
+ "steps": 62,
+ "width_cm": 23.2,
+ "depth_cm": 32.8,
+ "height_cm": 25.9,
+ "scale": "1:1",
+ "colors": 10,
+ "unique_parts": 121,
+ "bag_names": {
+  "1": "Display stand",
+  "2": "Boot Flight"
+ },
+ "source_file": "LUNA-X_Mobility_Boot.blend",
+ "pages": 22
+}

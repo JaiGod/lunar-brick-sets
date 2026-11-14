@@ -1,0 +1,28 @@
+{
+ "set_no": "LS-206",
+ "name": "Lunar Home",
+ "subtitle": "Regolith-shielded dome home and outposts",
+ "series": "Concept Habitats",
+ "pieces": 3211,
+ "bags": 9,
+ "steps": 55,
+ "width_cm": 128.0,
+ "depth_cm": 128.0,
+ "height_cm": 17.3,
+ "scale": "1:193",
+ "colors": 19,
+ "unique_parts": 207,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "LunarHome",
+  "3": "Base PowerLine",
+  "4": "Base Mining",
+  "5": "Base TowerColony",
+  "6": "Base Observatory",
+  "7": "Base LaunchPad",
+  "8": "Base Barracks",
+  "9": "Base PowerStation"
+ },
+ "source_file": "Base1.blend",
+ "pages": 21
+}

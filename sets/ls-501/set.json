@@ -1,0 +1,28 @@
+{
+ "set_no": "LS-501",
+ "name": "LUNA-X Smart Suit",
+ "subtitle": "Wearable wellness suit \u00b7 display model",
+ "series": "LUNA-X",
+ "pieces": 5038,
+ "bags": 9,
+ "steps": 68,
+ "width_cm": 25.6,
+ "depth_cm": 29.6,
+ "height_cm": 49.0,
+ "scale": "1:4",
+ "colors": 15,
+ "unique_parts": 139,
+ "bag_names": {
+  "1": "Display stand",
+  "2": "XCore",
+  "3": "Suit",
+  "4": "Exoskeleton",
+  "5": "Sensors",
+  "6": "HERMES",
+  "7": "Backpack",
+  "8": "StressFibers",
+  "9": "Wiring"
+ },
+ "source_file": "LUNA-X_Smart_Suit.blend",
+ "pages": 23
+}

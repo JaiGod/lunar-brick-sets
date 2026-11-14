@@ -1,0 +1,24 @@
+{
+ "set_no": "LS-204",
+ "name": "Regolith Hub",
+ "subtitle": "Concept habitat 4 \u00b7 regolith-shielded hub and storm shelter",
+ "series": "Concept Habitats",
+ "pieces": 9035,
+ "bags": 5,
+ "steps": 63,
+ "width_cm": 102.4,
+ "depth_cm": 76.8,
+ "height_cm": 23.7,
+ "scale": "1:70",
+ "colors": 26,
+ "unique_parts": 243,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Interior Hub",
+  "3": "Site Equipment",
+  "4": "Exterior Hub",
+  "5": "Exterior Modules"
+ },
+ "source_file": "4.blend",
+ "pages": 24
+}

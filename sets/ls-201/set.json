@@ -1,0 +1,25 @@
+{
+ "set_no": "LS-201",
+ "name": "Dome City",
+ "subtitle": "Concept habitat 1 \u00b7 domed city and spaceport",
+ "series": "Concept Habitats",
+ "pieces": 14318,
+ "bags": 6,
+ "steps": 63,
+ "width_cm": 102.4,
+ "depth_cm": 128.0,
+ "height_cm": 22.7,
+ "scale": "1:193",
+ "colors": 21,
+ "unique_parts": 215,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Interior City",
+  "3": "Spaceport Vehicles",
+  "4": "Exterior Core",
+  "5": "Agri Dome",
+  "6": "Wellness Biodome"
+ },
+ "source_file": "1.blend",
+ "pages": 23
+}

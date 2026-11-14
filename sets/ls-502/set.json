@@ -1,0 +1,31 @@
+{
+ "set_no": "LS-502",
+ "name": "LUNA-X Adaptive Helmet",
+ "subtitle": "Cognitive helmet \u00b7 life-size display model",
+ "series": "LUNA-X",
+ "pieces": 2072,
+ "bags": 12,
+ "steps": 53,
+ "width_cm": 19.2,
+ "depth_cm": 20.0,
+ "height_cm": 26.6,
+ "scale": "1:3",
+ "colors": 11,
+ "unique_parts": 94,
+ "bag_names": {
+  "1": "Display stand",
+  "2": "Neck Ring",
+  "3": "Display",
+  "4": "Audio Comms",
+  "5": "Lighting Ring",
+  "6": "Sensors",
+  "7": "AI Core",
+  "8": "Outer Shell",
+  "9": "Inner Shell",
+  "10": "Visor Gold",
+  "11": "HUD",
+  "12": "Visor Clear"
+ },
+ "source_file": "LUNA-X_Adaptive_Cognitive_Helmet.blend",
+ "pages": 19
+}

@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-207",
+ "name": "Hard-Shelled Habitat",
+ "subtitle": "Cement-shell habitat with five interior floors",
+ "series": "Concept Habitats",
+ "pieces": 17267,
+ "bags": 2,
+ "steps": 67,
+ "width_cm": 102.4,
+ "depth_cm": 51.2,
+ "height_cm": 35.2,
+ "scale": "1:158",
+ "colors": 15,
+ "unique_parts": 226,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Hardshelled Lunar Habitat"
+ },
+ "source_file": "hardShelled.blend",
+ "pages": 24
+}

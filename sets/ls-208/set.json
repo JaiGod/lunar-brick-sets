@@ -1,0 +1,26 @@
+{
+ "set_no": "LS-208",
+ "name": "Crew Wellness Dome",
+ "subtitle": "Two-level wellness habitat with central atrium",
+ "series": "Concept Habitats",
+ "pieces": 17361,
+ "bags": 7,
+ "steps": 60,
+ "width_cm": 102.4,
+ "depth_cm": 76.8,
+ "height_cm": 25.3,
+ "scale": "1:32",
+ "colors": 27,
+ "unique_parts": 273,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Model",
+  "3": "Cupola Oculus",
+  "4": "L2 Inflatable Dome",
+  "5": "L2 Upper Deck Interior",
+  "6": "Airlocks Ports",
+  "7": "L1 Lower Deck Interior"
+ },
+ "source_file": "CrewWellnessDome.blend",
+ "pages": 23
+}

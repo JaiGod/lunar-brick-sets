@@ -1,0 +1,27 @@
+{
+ "set_no": "LS-209",
+ "name": "Smart Adaptive Habitat",
+ "subtitle": "Two-deck habitat with greenhouse, power and rover",
+ "series": "Concept Habitats",
+ "pieces": 8180,
+ "bags": 8,
+ "steps": 65,
+ "width_cm": 128.0,
+ "depth_cm": 102.4,
+ "height_cm": 26.9,
+ "scale": "1:52",
+ "colors": 18,
+ "unique_parts": 229,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "L2 Upper Deck Interior",
+  "3": "L1 Lower Deck Interior",
+  "4": "Greenhouse",
+  "5": "Power Comms Thermal",
+  "6": "Structure",
+  "7": "Airlocks",
+  "8": "Rover Robots"
+ },
+ "source_file": "LunarSmartAdaptiveHabitat.blend",
+ "pages": 24
+}

@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-402",
+ "name": "Airlock",
+ "subtitle": "LUNA VR habitat module",
+ "series": "LUNA VR",
+ "pieces": 12672,
+ "bags": 2,
+ "steps": 75,
+ "width_cm": 76.8,
+ "depth_cm": 102.4,
+ "height_cm": 52.8,
+ "scale": "1:5",
+ "colors": 15,
+ "unique_parts": 179,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "LUNA X Airlock"
+ },
+ "source_file": "LUNA_X_Airlock.blend",
+ "pages": 25
+}

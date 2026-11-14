@@ -1,0 +1,27 @@
+{
+ "set_no": "LS-210",
+ "name": "Biotech Collection",
+ "subtitle": "16 lunar base models in 7 colour-coded types",
+ "series": "Concept Habitats",
+ "pieces": 4061,
+ "bags": 8,
+ "steps": 56,
+ "width_cm": 76.8,
+ "depth_cm": 128.0,
+ "height_cm": 13.4,
+ "scale": "1:81",
+ "colors": 21,
+ "unique_parts": 255,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Habitation",
+  "3": "Power",
+  "4": "Life Support Bio",
+  "5": "Mobility Robotics",
+  "6": "ISRU Resources",
+  "7": "Logistics Access",
+  "8": "Comms AI"
+ },
+ "source_file": "Models.blend",
+ "pages": 22
+}

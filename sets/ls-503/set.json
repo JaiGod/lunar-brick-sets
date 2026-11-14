@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-503",
+ "name": "LUNA-X Wellness Glove",
+ "subtitle": "Adaptive glove \u00b7 life-size display model",
+ "series": "LUNA-X",
+ "pieces": 1102,
+ "bags": 2,
+ "steps": 28,
+ "width_cm": 16.8,
+ "depth_cm": 14.4,
+ "height_cm": 29.8,
+ "scale": "1:1",
+ "colors": 8,
+ "unique_parts": 57,
+ "bag_names": {
+  "1": "Display stand",
+  "2": "Glove"
+ },
+ "source_file": "LUNA-X_Wellness_Glove.blend",
+ "pages": 11
+}

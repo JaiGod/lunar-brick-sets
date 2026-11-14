@@ -1,0 +1,26 @@
+{
+ "set_no": "LS-203",
+ "name": "Capsule Tower",
+ "subtitle": "Concept habitat 3 \u00b7 vertical capsule tower",
+ "series": "Concept Habitats",
+ "pieces": 4144,
+ "bags": 7,
+ "steps": 65,
+ "width_cm": 76.8,
+ "depth_cm": 51.2,
+ "height_cm": 38.1,
+ "scale": "1:52",
+ "colors": 24,
+ "unique_parts": 236,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "Interior L2 Living",
+  "3": "Interior L1 Greenhouse",
+  "4": "Interior L3 Sleep Loft",
+  "5": "Interior Shell Liner",
+  "6": "Exterior Shell",
+  "7": "Interior L0 LifeSupport"
+ },
+ "source_file": "3.blend",
+ "pages": 24
+}

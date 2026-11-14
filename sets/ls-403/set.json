@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-403",
+ "name": "AI Command Center",
+ "subtitle": "LUNA VR habitat module",
+ "series": "LUNA VR",
+ "pieces": 4456,
+ "bags": 2,
+ "steps": 49,
+ "width_cm": 102.4,
+ "depth_cm": 51.2,
+ "height_cm": 22.1,
+ "scale": "1:7",
+ "colors": 17,
+ "unique_parts": 167,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "LUNA X AI CommandCenter"
+ },
+ "source_file": "LUNA_X_AI_CommandCenter.blend",
+ "pages": 19
+}

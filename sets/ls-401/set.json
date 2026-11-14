@@ -1,0 +1,21 @@
+{
+ "set_no": "LS-401",
+ "name": "Wellness Dock",
+ "subtitle": "LUNA VR habitat module",
+ "series": "LUNA VR",
+ "pieces": 8697,
+ "bags": 2,
+ "steps": 44,
+ "width_cm": 102.4,
+ "depth_cm": 102.4,
+ "height_cm": 103.4,
+ "scale": "1:2",
+ "colors": 16,
+ "unique_parts": 179,
+ "bag_names": {
+  "1": "Moon surface",
+  "2": "LUNA X WellnessDock"
+ },
+ "source_file": "LUNA_X_WellnessDock.blend",
+ "pages": 17
+}
